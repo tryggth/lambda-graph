@@ -18,7 +18,7 @@
 # You should have received a copy of the GNU General Public License
 # along with Ansible.  If not, see <http://www.gnu.org/licenses/>.
 
-__author__ = 'tryggth <tryggth2009@gmail.com>'
+__author__ = "tryggth <tryggth2009@gmail.com>"
 
 VERSION = '0.1'
 
